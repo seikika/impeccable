@@ -1,0 +1,89 @@
+{
+  "evidence": {},
+  "format": "seikika-report/v1",
+  "portal": "impeccable",
+  "results": {
+    "docs": {
+      "doc:AGENTS.md": {
+        "level": "bronze"
+      },
+      "doc:CLAUDE.md": {
+        "level": "bronze"
+      },
+      "doc:DESIGN.md": {
+        "level": "bronze"
+      },
+      "doc:NOTICE.md": {
+        "level": "bronze"
+      },
+      "doc:PRODUCT.md": {
+        "level": "bronze"
+      },
+      "doc:README.md": {
+        "level": "bronze"
+      },
+      "doc:README.npm.md": {
+        "level": "bronze"
+      },
+      "doc:docs/AGENTS-ENGINE.md": {
+        "level": "bronze"
+      },
+      "doc:docs/BUNDLE-SIGNING.md": {
+        "level": "bronze"
+      },
+      "doc:docs/CLI-CONTRACT.md": {
+        "level": "bronze"
+      },
+      "doc:docs/COMP-FIDELITY.md": {
+        "level": "bronze"
+      },
+      "doc:docs/COMP-GATE-INTEGRITY.md": {
+        "level": "bronze"
+      },
+      "doc:docs/CURSOR-PLUGIN.md": {
+        "level": "bronze"
+      },
+      "doc:docs/DEVELOP.md": {
+        "level": "bronze"
+      },
+      "doc:docs/ENGINE.md": {
+        "level": "bronze"
+      },
+      "doc:docs/HARNESSES.md": {
+        "level": "bronze"
+      },
+      "doc:docs/NATIVE-CAPTURE.md": {
+        "level": "bronze"
+      },
+      "doc:docs/PLAN-REVIEW.md": {
+        "level": "bronze"
+      },
+      "doc:docs/PORTING-GUIDE.md": {
+        "level": "bronze"
+      },
+      "doc:docs/RUNTIME-ENV.md": {
+        "level": "bronze"
+      },
+      "doc:docs/STYLE.md": {
+        "level": "bronze"
+      },
+      "doc:docs/VSCODE-EXTENSION.md": {
+        "level": "bronze"
+      },
+      "doc:docs/WINDOWS-SIGNING.md": {
+        "level": "bronze"
+      },
+      "doc:docs/adr-live-variant-mode.md": {
+        "level": "bronze"
+      },
+      "doc:docs/openai-plugin-submission.md": {
+        "level": "bronze"
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/impeccable": {
+        "level": "silver"
+      }
+    }
+  }
+}
