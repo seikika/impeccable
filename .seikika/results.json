@@ -1,0 +1,12 @@
+{
+  "evidence": {},
+  "format": "seikika-report/v1",
+  "portal": "repo",
+  "results": {
+    "repo-hygiene": {
+      "repository:seikika/impeccable": {
+        "level": "silver"
+      }
+    }
+  }
+}
